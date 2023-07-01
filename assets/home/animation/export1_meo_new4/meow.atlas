@@ -1,0 +1,125 @@
+
+meow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12face
+  rotate: false
+  xy: 905, 1271
+  size: 272, 237
+  orig: 272, 237
+  offset: 0, 0
+  index: -1
+2body
+  rotate: true
+  xy: 2, 75
+  size: 548, 996
+  orig: 548, 997
+  offset: 0, 0
+  index: -1
+2face
+  rotate: false
+  xy: 889, 1087
+  size: 323, 182
+  orig: 323, 182
+  offset: 0, 0
+  index: -1
+2line ca
+  rotate: false
+  xy: 887, 863
+  size: 197, 94
+  orig: 200, 96
+  offset: 1, 1
+  index: -1
+2mouth
+  rotate: true
+  xy: 780, 955
+  size: 157, 105
+  orig: 159, 107
+  offset: 1, 1
+  index: -1
+2tay phai
+  rotate: false
+  xy: 559, 941
+  size: 219, 416
+  orig: 219, 416
+  offset: 0, 0
+  index: -1
+2tay trai
+  rotate: true
+  xy: 905, 1510
+  size: 157, 420
+  orig: 158, 420
+  offset: 1, 0
+  index: -1
+3eye1
+  rotate: true
+  xy: 780, 710
+  size: 243, 48
+  orig: 243, 48
+  offset: 0, 0
+  index: -1
+3mouth
+  rotate: false
+  xy: 1179, 1277
+  size: 261, 80
+  orig: 261, 80
+  offset: 0, 0
+  index: -1
+4Layer 32 copy
+  rotate: false
+  xy: 2, 625
+  size: 555, 1042
+  orig: 555, 1042
+  offset: 0, 0
+  index: -1
+4duoi
+  rotate: false
+  xy: 559, 1359
+  size: 344, 308
+  orig: 344, 308
+  offset: 0, 0
+  index: -1
+4eye1
+  rotate: true
+  xy: 830, 710
+  size: 243, 35
+  orig: 243, 35
+  offset: 0, 0
+  index: -1
+4mouth
+  rotate: false
+  xy: 887, 959
+  size: 184, 126
+  orig: 187, 129
+  offset: 1, 1
+  index: -1
+4nose
+  rotate: true
+  xy: 780, 1114
+  size: 243, 107
+  orig: 243, 107
+  offset: 0, 0
+  index: -1
+4tay phai
+  rotate: true
+  xy: 1327, 1518
+  size: 149, 340
+  orig: 149, 341
+  offset: 0, 0
+  index: -1
+4tay trai
+  rotate: true
+  xy: 1179, 1359
+  size: 149, 344
+  orig: 149, 344
+  offset: 0, 0
+  index: -1
+nuocmat
+  rotate: false
+  xy: 559, 883
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1

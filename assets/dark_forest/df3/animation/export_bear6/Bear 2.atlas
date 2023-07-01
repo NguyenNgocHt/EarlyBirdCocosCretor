@@ -1,0 +1,349 @@
+
+Bear 2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1_front
+  rotate: true
+  xy: 622, 828
+  size: 194, 217
+  orig: 194, 217
+  offset: 0, 0
+  index: -1
+bang_front
+  rotate: false
+  xy: 2, 875
+  size: 316, 147
+  orig: 316, 147
+  offset: 0, 0
+  index: -1
+chan1_angle
+  rotate: true
+  xy: 429, 599
+  size: 88, 117
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+chan2_angle
+  rotate: true
+  xy: 303, 589
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+chan2_front
+  rotate: true
+  xy: 429, 689
+  size: 88, 124
+  orig: 88, 125
+  offset: 0, 1
+  index: -1
+dau_angle
+  rotate: false
+  xy: 2, 625
+  size: 299, 248
+  orig: 299, 248
+  offset: 0, 0
+  index: -1
+longden11a
+  rotate: false
+  xy: 938, 512
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+longden1_angleaa
+  rotate: false
+  xy: 680, 470
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+longden1_frontbb
+  rotate: false
+  xy: 680, 419
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+longden22a
+  rotate: true
+  xy: 785, 435
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+longden2_angleaa
+  rotate: false
+  xy: 785, 383
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+longden2_frontbb
+  rotate: false
+  xy: 893, 410
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+longmay1_angle
+  rotate: true
+  xy: 1001, 896
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+longmay1_front
+  rotate: true
+  xy: 1001, 977
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+longmay2_1
+  rotate: true
+  xy: 1001, 851
+  size: 43, 19
+  orig: 45, 21
+  offset: 1, 1
+  index: -1
+longmay2_2
+  rotate: true
+  xy: 1000, 806
+  size: 43, 19
+  orig: 45, 21
+  offset: 1, 1
+  index: -1
+longmay2_angle
+  rotate: true
+  xy: 989, 521
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+longmay2_front
+  rotate: true
+  xy: 1001, 930
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+ma1_angle
+  rotate: false
+  xy: 990, 690
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+ma2_angle
+  rotate: true
+  xy: 654, 427
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+ma_front
+  rotate: false
+  xy: 320, 779
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+mat1_angle
+  rotate: true
+  xy: 614, 472
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+mat1_front
+  rotate: true
+  xy: 938, 414
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+mat2_angle
+  rotate: true
+  xy: 548, 592
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+mat4_1
+  rotate: false
+  xy: 555, 716
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+mat4_2
+  rotate: false
+  xy: 555, 653
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+matcuoi1_1
+  rotate: false
+  xy: 726, 430
+  size: 57, 54
+  orig: 59, 56
+  offset: 1, 1
+  index: -1
+matcuoi1_2
+  rotate: false
+  xy: 834, 405
+  size: 57, 54
+  orig: 59, 56
+  offset: 1, 1
+  index: -1
+matkhoc1
+  rotate: false
+  xy: 532, 461
+  size: 59, 47
+  orig: 61, 49
+  offset: 1, 1
+  index: -1
+matkhoc2
+  rotate: false
+  xy: 593, 423
+  size: 59, 47
+  orig: 61, 49
+  offset: 1, 1
+  index: -1
+mom1_1
+  rotate: false
+  xy: 938, 475
+  size: 78, 35
+  orig: 80, 37
+  offset: 1, 1
+  index: -1
+mom1_angle
+  rotate: false
+  xy: 532, 549
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+mom2_front
+  rotate: false
+  xy: 532, 510
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+mom4_1
+  rotate: false
+  xy: 728, 486
+  size: 94, 38
+  orig: 94, 38
+  offset: 0, 0
+  index: -1
+mom_angle
+  rotate: false
+  xy: 303, 676
+  size: 124, 101
+  orig: 124, 101
+  offset: 0, 0
+  index: -1
+mom_front
+  rotate: true
+  xy: 990, 568
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+mui_angle
+  rotate: true
+  xy: 990, 646
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+nuocmat4
+  rotate: false
+  xy: 303, 858
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+nuocmat5
+  rotate: true
+  xy: 990, 716
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+nuocmat6
+  rotate: false
+  xy: 1000, 772
+  size: 17, 32
+  orig: 20, 34
+  offset: 2, 1
+  index: -1
+tai1_angle
+  rotate: false
+  xy: 834, 461
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+tai1_front
+  rotate: true
+  xy: 422, 503
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+tai2_angle
+  rotate: true
+  xy: 728, 526
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+tai2_front
+  rotate: true
+  xy: 618, 522
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+tay1_angle
+  rotate: true
+  xy: 839, 644
+  size: 105, 149
+  orig: 105, 149
+  offset: 0, 0
+  index: -1
+tay1_front
+  rotate: false
+  xy: 841, 751
+  size: 157, 134
+  orig: 159, 135
+  offset: 2, 0
+  index: -1
+tay2_angle
+  rotate: true
+  xy: 839, 561
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+tay2_front
+  rotate: false
+  xy: 841, 887
+  size: 158, 135
+  orig: 159, 135
+  offset: 0, 0
+  index: -1
+than_angle
+  rotate: false
+  xy: 622, 618
+  size: 215, 208
+  orig: 215, 208
+  offset: 0, 0
+  index: -1

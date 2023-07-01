@@ -1,0 +1,300 @@
+
+monster.png
+size: 664,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z
+  rotate: true
+  xy: 379, 2
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+angle copangle copyytrongmat_angle
+  rotate: false
+  xy: 653, 265
+  size: 9, 20
+  orig: 11, 22
+  offset: 1, 1
+  index: -1
+angle copymat_angle
+  rotate: false
+  xy: 537, 142
+  size: 82, 80
+  orig: 84, 82
+  offset: 1, 1
+  index: -1
+angle copymi_angle
+  rotate: true
+  xy: 609, 569
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+angle copymieng_angle
+  rotate: false
+  xy: 236, 434
+  size: 181, 49
+  orig: 183, 51
+  offset: 1, 1
+  index: -1
+angle copymoi_angle
+  rotate: true
+  xy: 106, 12
+  size: 195, 88
+  orig: 195, 88
+  offset: 0, 0
+  index: -1
+angle copymongtay2_angle
+  rotate: true
+  xy: 584, 54
+  size: 86, 45
+  orig: 88, 47
+  offset: 1, 1
+  index: -1
+angle copyrang1_angle
+  rotate: false
+  xy: 429, 3
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+angle copyrang2_angle
+  rotate: false
+  xy: 339, 48
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+angle copysung1_angle
+  rotate: false
+  xy: 417, 143
+  size: 118, 79
+  orig: 120, 81
+  offset: 1, 1
+  index: -1
+angle copysung2_angle
+  rotate: false
+  xy: 457, 287
+  size: 130, 75
+  orig: 132, 77
+  offset: 1, 1
+  index: -1
+angle copytai2_angle
+  rotate: true
+  xy: 621, 491
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+angle copytay2_angle copy 2
+  rotate: false
+  xy: 2, 23
+  size: 102, 184
+  orig: 102, 184
+  offset: 0, 0
+  index: -1
+buon ngumi_buonngu
+  rotate: false
+  xy: 417, 77
+  size: 91, 64
+  orig: 93, 66
+  offset: 1, 1
+  index: -1
+buon ngunuocbot_buonngu
+  rotate: false
+  xy: 457, 364
+  size: 137, 70
+  orig: 137, 70
+  offset: 0, 0
+  index: -1
+chan2_angle
+  rotate: false
+  xy: 510, 73
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+dau_angle
+  rotate: false
+  xy: 2, 433
+  size: 232, 229
+  orig: 232, 229
+  offset: 0, 0
+  index: -1
+duoi_angle
+  rotate: true
+  xy: 589, 287
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+khoi
+  rotate: false
+  xy: 257, 313
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+mi_thet
+  rotate: false
+  xy: 286, 2
+  size: 91, 38
+  orig: 93, 40
+  offset: 1, 1
+  index: -1
+mieng_thet
+  rotate: true
+  xy: 339, 75
+  size: 146, 76
+  orig: 148, 78
+  offset: 1, 1
+  index: -1
+minh_angle
+  rotate: false
+  xy: 2, 209
+  size: 202, 222
+  orig: 202, 222
+  offset: 0, 0
+  index: -1
+mongtay1_angle
+  rotate: false
+  xy: 417, 30
+  size: 86, 45
+  orig: 88, 47
+  offset: 1, 1
+  index: -1
+nhai_ma_nhai
+  rotate: true
+  xy: 206, 208
+  size: 223, 49
+  orig: 225, 51
+  offset: 1, 1
+  index: -1
+nhai_mieng_nhai
+  rotate: true
+  xy: 286, 42
+  size: 179, 51
+  orig: 181, 53
+  offset: 1, 1
+  index: -1
+nhai_mieng_nhai2
+  rotate: false
+  xy: 424, 471
+  size: 195, 88
+  orig: 195, 88
+  offset: 0, 0
+  index: -1
+nhai_moitren_nhai
+  rotate: false
+  xy: 415, 224
+  size: 175, 23
+  orig: 177, 25
+  offset: 1, 1
+  index: -1
+nhai_nuocbot_nhai
+  rotate: false
+  xy: 419, 436
+  size: 207, 33
+  orig: 207, 33
+  offset: 0, 0
+  index: -1
+nhai_rang1_nhai
+  rotate: false
+  xy: 475, 5
+  size: 42, 23
+  orig: 44, 25
+  offset: 1, 1
+  index: -1
+nhai_rang2_nhai
+  rotate: false
+  xy: 583, 29
+  size: 46, 23
+  orig: 48, 25
+  offset: 1, 1
+  index: -1
+nuocbot_thet
+  rotate: true
+  xy: 196, 16
+  size: 190, 88
+  orig: 192, 90
+  offset: 1, 1
+  index: -1
+rang_thet
+  rotate: true
+  xy: 385, 313
+  size: 119, 70
+  orig: 121, 72
+  offset: 1, 1
+  index: -1
+tai1_angle
+  rotate: false
+  xy: 505, 32
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+tay1_angle
+  rotate: true
+  xy: 424, 561
+  size: 101, 183
+  orig: 101, 183
+  offset: 0, 0
+  index: -1
+tuc_gian_miduoi_tucgian
+  rotate: false
+  xy: 587, 259
+  size: 64, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+tuc_gian_moi_tucgian
+  rotate: false
+  xy: 415, 249
+  size: 170, 36
+  orig: 172, 38
+  offset: 1, 1
+  index: -1
+tuc_gian_rang1_tucgian
+  rotate: false
+  xy: 621, 160
+  size: 41, 21
+  orig: 43, 23
+  offset: 1, 1
+  index: -1
+tuc_gian_rang2_tucgian
+  rotate: false
+  xy: 519, 10
+  size: 45, 20
+  orig: 47, 22
+  offset: 1, 1
+  index: -1
+tucgian/gan_tucgian
+  rotate: true
+  xy: 596, 378
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+tucgian/mieng_tucgian
+  rotate: false
+  xy: 257, 223
+  size: 156, 88
+  orig: 156, 88
+  offset: 0, 0
+  index: -1
+tucgian/mitren_tucgian
+  rotate: true
+  xy: 621, 183
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+tucgian/tucgian
+  rotate: false
+  xy: 236, 485
+  size: 186, 177
+  orig: 189, 180
+  offset: 1, 2
+  index: -1

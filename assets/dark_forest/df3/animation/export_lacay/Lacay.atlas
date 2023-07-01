@@ -1,0 +1,41 @@
+
+Lacay.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lacay1
+  rotate: true
+  xy: 139, 83
+  size: 113, 54
+  orig: 116, 56
+  offset: 2, 1
+  index: -1
+lacay1 copy
+  rotate: false
+  xy: 2, 22
+  size: 113, 54
+  orig: 116, 56
+  offset: 2, 1
+  index: -1
+lacay2
+  rotate: false
+  xy: 117, 33
+  size: 79, 43
+  orig: 81, 45
+  offset: 1, 1
+  index: -1
+lacay3
+  rotate: false
+  xy: 2, 138
+  size: 135, 58
+  orig: 137, 60
+  offset: 1, 1
+  index: -1
+lacay3 copy 2
+  rotate: false
+  xy: 2, 78
+  size: 135, 58
+  orig: 137, 60
+  offset: 1, 1
+  index: -1

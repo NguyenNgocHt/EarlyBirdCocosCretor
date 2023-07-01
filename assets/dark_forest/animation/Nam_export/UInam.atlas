@@ -1,0 +1,188 @@
+
+UInam.png
+size: 672,672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chan1_nam1
+  rotate: false
+  xy: 620, 532
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1
+1/chan2_nam1
+  rotate: false
+  xy: 620, 473
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1
+1/daunam_nam1
+  rotate: false
+  xy: 305, 448
+  size: 313, 222
+  orig: 313, 222
+  offset: 0, 0
+  index: -1
+1/tay1_nam1
+  rotate: false
+  xy: 237, 246
+  size: 63, 56
+  orig: 64, 57
+  offset: 1, 1
+  index: -1
+1/thannam_nam1
+  rotate: false
+  xy: 378, 128
+  size: 133, 108
+  orig: 135, 108
+  offset: 1, 0
+  index: -1
+2/chan1_nam2
+  rotate: true
+  xy: 305, 19
+  size: 43, 56
+  orig: 45, 58
+  offset: 1, 1
+  index: -1
+2/chan2_nam2
+  rotate: false
+  xy: 497, 68
+  size: 43, 56
+  orig: 45, 58
+  offset: 1, 1
+  index: -1
+2/dau_nam2
+  rotate: false
+  xy: 2, 367
+  size: 301, 303
+  orig: 301, 303
+  offset: 0, 0
+  index: -1
+2/tay1_nam2
+  rotate: false
+  xy: 237, 304
+  size: 66, 61
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+2/than_nam2
+  rotate: false
+  xy: 237, 64
+  size: 139, 172
+  orig: 139, 172
+  offset: 0, 0
+  index: -1
+3/chan1_nam3
+  rotate: false
+  xy: 592, 399
+  size: 36, 47
+  orig: 39, 49
+  offset: 1, 1
+  index: -1
+3/chan2_nam3
+  rotate: false
+  xy: 592, 350
+  size: 36, 47
+  orig: 39, 49
+  offset: 2, 1
+  index: -1
+3/dau_nam3
+  rotate: false
+  xy: 305, 238
+  size: 285, 208
+  orig: 285, 208
+  offset: 0, 0
+  index: -1
+3/tay1_nam3
+  rotate: false
+  xy: 251, 14
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+3/than_nam3
+  rotate: true
+  xy: 513, 126
+  size: 110, 104
+  orig: 110, 105
+  offset: 0, 1
+  index: -1
+4/chan2_nam4
+  rotate: false
+  xy: 211, 2
+  size: 38, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+4/dau_nam4
+  rotate: true
+  xy: 2, 53
+  size: 312, 233
+  orig: 312, 233
+  offset: 0, 0
+  index: -1
+4/tay2_nam4
+  rotate: false
+  xy: 542, 77
+  size: 52, 47
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+4/than_nam4
+  rotate: true
+  xy: 378, 26
+  size: 100, 117
+  orig: 102, 117
+  offset: 1, 0
+  index: -1
+bongden
+  rotate: false
+  xy: 2, 6
+  size: 207, 45
+  orig: 209, 47
+  offset: 1, 1
+  index: -1
+longden1
+  rotate: false
+  xy: 592, 315
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+longden2
+  rotate: false
+  xy: 592, 280
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+longmay1
+  rotate: true
+  xy: 596, 83
+  size: 41, 20
+  orig: 41, 21
+  offset: 0, 1
+  index: -1
+longtrang1
+  rotate: false
+  xy: 497, 24
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+longtrang2
+  rotate: false
+  xy: 497, 24
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+mom
+  rotate: true
+  xy: 620, 591
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1

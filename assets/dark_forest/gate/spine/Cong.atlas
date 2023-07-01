@@ -1,0 +1,48 @@
+
+Cong.png
+size: 1328,1328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cong_gate
+  rotate: false
+  xy: 2, 520
+  size: 1008, 806
+  orig: 1008, 806
+  offset: 0, 0
+  index: -1
+cua1_gate
+  rotate: false
+  xy: 1012, 742
+  size: 297, 584
+  orig: 297, 584
+  offset: 0, 0
+  index: -1
+nencua_gate
+  rotate: false
+  xy: 2, 419
+  size: 854, 99
+  orig: 854, 741
+  offset: 0, 0
+  index: -1
+spiral_1
+  rotate: false
+  xy: 2, 2
+  size: 415, 415
+  orig: 415, 415
+  offset: 0, 0
+  index: -1
+spiral_2
+  rotate: true
+  xy: 836, 2
+  size: 415, 410
+  orig: 415, 415
+  offset: 0, 1
+  index: -1
+spiral_3
+  rotate: false
+  xy: 419, 2
+  size: 415, 415
+  orig: 415, 415
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9@6c48a",
+      "displayName": "damcolon3_gate",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9@f9941",
+      "displayName": "damcolon3_gate",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 2215,
+        "height": 859,
+        "rawWidth": 2217,
+        "rawHeight": 861,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -1107.5,
+            -429.5,
+            0,
+            1107.5,
+            -429.5,
+            0,
+            -1107.5,
+            429.5,
+            0,
+            1107.5,
+            429.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            1,
+            860,
+            2216,
+            860,
+            1,
+            1,
+            2216,
+            1
+          ],
+          "nuv": [
+            0.0004510599909788002,
+            0.0011614401858304297,
+            0.9995489400090212,
+            0.0011614401858304297,
+            0.0004510599909788002,
+            0.9988385598141696,
+            0.9995489400090212,
+            0.9988385598141696
+          ],
+          "minPos": [
+            -1107.5,
+            -429.5,
+            0
+          ],
+          "maxPos": [
+            1107.5,
+            429.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "746741f5-29a3-480e-bcf1-ffb0a4ec9ee9@f9941"
+  }
+}

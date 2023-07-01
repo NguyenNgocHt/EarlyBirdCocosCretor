@@ -1,0 +1,97 @@
+
+Soc2.png
+size: 1244,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bapchan1
+  rotate: false
+  xy: 636, 62
+  size: 126, 157
+  orig: 128, 159
+  offset: 1, 1
+  index: -1
+bapchan2
+  rotate: false
+  xy: 764, 63
+  size: 127, 156
+  orig: 129, 158
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 636, 221
+  size: 291, 338
+  orig: 291, 338
+  offset: 0, 0
+  index: -1
+canhtay1
+  rotate: true
+  xy: 636, 6
+  size: 54, 119
+  orig: 56, 121
+  offset: 1, 1
+  index: -1
+canhtay2
+  rotate: true
+  xy: 1072, 2
+  size: 53, 118
+  orig: 55, 120
+  offset: 1, 1
+  index: -1
+chan1
+  rotate: false
+  xy: 929, 216
+  size: 177, 73
+  orig: 177, 73
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 893, 32
+  size: 177, 73
+  orig: 177, 73
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 929, 291
+  size: 312, 268
+  orig: 312, 268
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 2, 9
+  size: 632, 550
+  orig: 640, 550
+  offset: 0, 0
+  index: -1
+tai1
+  rotate: false
+  xy: 893, 107
+  size: 167, 107
+  orig: 167, 107
+  offset: 0, 0
+  index: -1
+tai2
+  rotate: false
+  xy: 1062, 139
+  size: 169, 66
+  orig: 169, 66
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: false
+  xy: 1072, 57
+  size: 108, 80
+  orig: 110, 82
+  offset: 1, 1
+  index: -1
+tay2
+  rotate: false
+  xy: 1108, 207
+  size: 109, 82
+  orig: 111, 84
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+Buom.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh1_1
+  rotate: false
+  xy: 368, 275
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+canh1_2
+  rotate: false
+  xy: 2, 322
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+canh1_3
+  rotate: false
+  xy: 260, 276
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+canh2_1
+  rotate: false
+  xy: 120, 383
+  size: 149, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+canh2_2
+  rotate: false
+  xy: 271, 383
+  size: 149, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+canh2_3
+  rotate: false
+  xy: 109, 290
+  size: 149, 91
+  orig: 149, 91
+  offset: 0, 0
+  index: -1
+than_3
+  rotate: false
+  xy: 2, 429
+  size: 116, 45
+  orig: 116, 45
+  offset: 0, 0
+  index: -1

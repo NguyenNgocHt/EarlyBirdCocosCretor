@@ -1,0 +1,146 @@
+
+Giohoaqua.png
+size: 552,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuoi1
+  rotate: false
+  xy: 2, 125
+  size: 302, 220
+  orig: 311, 234
+  offset: 8, 13
+  index: -1
+dau
+  rotate: false
+  xy: 2, 23
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+dau1
+  rotate: false
+  xy: 306, 147
+  size: 238, 145
+  orig: 322, 242
+  offset: 42, 49
+  index: -1
+doi_canh1
+  rotate: true
+  xy: 481, 464
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+doi_chan1
+  rotate: false
+  xy: 518, 338
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+doi_mat1
+  rotate: false
+  xy: 521, 439
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+doi_mat2
+  rotate: false
+  xy: 521, 439
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+doi_matden1
+  rotate: false
+  xy: 521, 406
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+doi_matden2
+  rotate: false
+  xy: 521, 406
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+doi_mattrang1
+  rotate: false
+  xy: 542, 544
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+doi_mattrang2
+  rotate: false
+  xy: 542, 544
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+doi_matxanh1
+  rotate: false
+  xy: 521, 419
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+doi_matxanh2
+  rotate: false
+  xy: 521, 419
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+doi_mieng
+  rotate: true
+  xy: 481, 370
+  size: 92, 38
+  orig: 94, 40
+  offset: 1, 1
+  index: -1
+doi_minh
+  rotate: false
+  xy: 136, 38
+  size: 130, 85
+  orig: 130, 85
+  offset: 0, 0
+  index: -1
+doi_tay1
+  rotate: true
+  xy: 481, 335
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+doi_tay2
+  rotate: true
+  xy: 481, 300
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+gioduoi1
+  rotate: false
+  xy: 2, 347
+  size: 338, 201
+  orig: 340, 203
+  offset: 1, 1
+  index: -1
+giotre2
+  rotate: true
+  xy: 342, 294
+  size: 254, 137
+  orig: 256, 139
+  offset: 1, 1
+  index: -1
+tao1
+  rotate: false
+  xy: 306, 32
+  size: 197, 113
+  orig: 322, 242
+  offset: 60, 71
+  index: -1
